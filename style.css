@@ -1,0 +1,64 @@
+a {
+    text-decoration: none;
+}
+
+body {
+    font-family: "Lilita One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background: linear-gradient(90deg, rgba(101, 193, 244, 1) 0%, rgba(102, 236, 33, 1) 35%, rgba(0, 207, 255, 1) 100%);
+}
+
+.link_menu {
+    color: cornflowerblue;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.textH1 {
+    color: #222222;
+    font-size: 28px;
+    line-height: 36px;
+    font-weight: bold;
+}
+
+.textH2 {
+    color: coral;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 80px;
+}
+
+.textParagrath {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    /* color: #7D7987; */
+    color: #ff9500;
+    )
+}
+
+.picture {
+    border-radius: 10px;
+    border: 1px solid #7777;
+}
+
+.enter_input {
+    width: 200px;
+    height: 30px;
+    outline: none;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    font-size: 14px;
+    line-height: 30px;
+}
+
+.btn {
+    width: 100px;
+    height: 30px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
